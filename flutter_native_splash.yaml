@@ -1,0 +1,8 @@
+flutter_native_splash:
+  color: "#FFF0EB"  # Matches your scaffoldBackgroundColor
+  image: assets/images/puzzle_logo.png  # Your Skill Swap logo
+  android: true
+  ios: true
+  web: true
+  android_gravity: center
+  ios_content_mode: center
